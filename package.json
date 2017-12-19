@@ -1,0 +1,23 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simple Bookstore API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "Tohir Omoloye",
+  "license": "ISC"
+}
